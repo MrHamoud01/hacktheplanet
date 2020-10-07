@@ -28,7 +28,7 @@ import telnetlib #  lvl4
 def rangip(mobile, local_ip):
     
     earlist =['u','b','Mr.Hamoud is in love With iraq','k','p','x','x','q','i']
-    # earlist[0]+earlist[1][0]+earlist[2][4]+earlist[4]+earlist[2][26]+earlist[2][2]+earlist[2][19]+earlist[2][28]+earlist[2][1]+earlist[2][23:24]+earlist[2][16]+earlist[2][26]+earlist[2][13:14]+earlist[23]+earlist[2][2]+earlist[2][26]+earlist[2][29]
+    
 
     # Solve The S1mple Pazzel ^_^
     # 
